@@ -29,3 +29,15 @@ To run the program, set this project in the classpath or add the directory to yo
 
 
 ---
+
+**To Do**
+
+Contributors welcome! Feel free to issue pull-requests with any new features or improvements you have come up with!
+
+1. **Optimal use of storage** – Manage free space in **filesys.dat** to have minimum loss of storage and better way to access them.
+2. **Parallel reading access** – For reading images and data in more efficient way.
+3. **Remote access** – Remote machine capable enough to access this file systems.
+4. **Sorting** – Sort data on basis of name or time.
+5. **Bug Fixes** – Fix any bug/issue.
+
+---
