@@ -2,7 +2,6 @@
                         Watch Directory and
                           Random generator
                                                 Jay Bhatt
-                                                2019BTCSE010
 ************************************************************************/
 import java.io.File;
 import java.io.FileWriter;
