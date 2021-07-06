@@ -3,7 +3,6 @@
                         simulator for small
                            embedded device
                                                 Jay Bhatt
-                                                2019BTCSE010
 ************************************************************************/
 import java.io.File;
 import java.io.FileInputStream;
