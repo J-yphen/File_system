@@ -2,7 +2,6 @@
                         Encryption and Decryption
                         
                                                 Jay Bhatt
-                                                2019BTCSE010
 ************************************************************************/
 import java.security.MessageDigest;
 import java.util.Arrays;
