@@ -4,7 +4,6 @@
                                 from given byte
                                      array
                                                 Jay Bhatt
-                                                2019BTCSE010
 ************************************************************************/
 import java.awt.image.BufferedImage;
 import java.io.BufferedInputStream;
