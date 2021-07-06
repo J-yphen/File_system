@@ -2,7 +2,6 @@
                         Display Images with 
                              given path
                                                 Jay Bhatt
-                                                2019BTCSE010
 ************************************************************************/
 import java.awt.*;  
 import javax.swing.JFrame;
